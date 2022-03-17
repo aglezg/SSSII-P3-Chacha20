@@ -1,3 +1,13 @@
+# ----------------------------------------------------------------
+# Práctica 3: Generador Chacha20.
+# Asignatura: Seguridad en Sistemas Informáticos
+# Fecha de entrega: 17/03/2022
+# Autor:
+# - Adrián González Galván
+# - alu0101321219@ull.edu.es
+# ----------------------------------------------------------------
+# En este fichero se incluye el desarrollo del menú de la práctica.
+# ----------------------------------------------------------------
 from functions import *
 import sys
 
